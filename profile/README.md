@@ -7,6 +7,12 @@
 - PEAKS (Power Efficiency Aware Kubernetes Scheduler) uses metrics exported by Kepler to help Kubernetes schedule to improve energy efficiency by placing Pods on optimal nodes.
 - CLEVER (Container Level Energy-efficient VPA Recommender) uses metrics exported by Kepler to recommend Vertical Pod Autoscaler the resource profiles to improve energy efficiency by running workloads.
 
+# 🧭 Navigating the repo
+
+## kepler
+[Kepler repo](https://github.com/sustainable-computing-io/kepler)
+
+
 # 🌏🌲🌳 Contribution guidelines - how can the community get involved?
 
 We use [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
